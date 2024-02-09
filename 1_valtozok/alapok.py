@@ -5,7 +5,7 @@ kor = 28
 # mit jelent? a python futasido alatt kitalalja a valtozo tipusat!
 nevem = "Gabor"  # ennek koszonhetoen pythonban csak nevet es erteket adunk!
 # tipusos nyelvek eseten a tipust EXPLICIT deklaralni kell -> string nevem = "Gabor"
-# IMPLICIT tipuskonverzio? Amikor rabirjuk a futtatokornyezetet, hogy az adott valtozo valamilyen tipust vegyen fel!
+# EXPLICIT tipuskonverzio? Amikor rabirjuk a futtatokornyezetet, hogy az adott valtozo valamilyen tipust vegyen fel!
 szul_ev = "1995" # -> alapbol string!
 szul_ev_int = int(szul_ev) # -> integerkent szeretnem latni!
 
